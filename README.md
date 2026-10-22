@@ -1,6 +1,6 @@
 # BMI Calculator & AI Health Coach Chatbot
 
-A beginner-friendly Python console application that calculates a user's Body Mass Index (BMI) and launches a context-aware AI Health Coach Chatbot based on your specific results. 
+A beginner friendly Python console application that calculates a user's Body Mass Index (BMI) and launches a context-aware AI Health Coach Chatbot based on your specific results. 
 
 This project demonstrates the power of clean code layout using Python dictionaries  as structured knowledge bases instead of relying on heavily nested `if-elif-else` loops.
 
